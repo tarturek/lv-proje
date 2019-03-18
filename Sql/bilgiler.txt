@@ -1,0 +1,2 @@
+admin kullanýcý email : admin@admin.com
+þifre : admin
